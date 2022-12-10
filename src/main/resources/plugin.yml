@@ -1,0 +1,4 @@
+name: LavaTeleport
+version: '${project.version}'
+main: badziol.lavateleport.LavaTeleport
+api-version: 1.19
